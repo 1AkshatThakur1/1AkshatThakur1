@@ -1,25 +1,70 @@
-<h1 align="center">Hi 👋, I'm Akshat Thakur</h1>
+# 👋 Hey there, I’m Akshat Thakur!  
 
-###
+Welcome to my GitHub corner! 🎉 I'm an **Aspiring Data Analyst**, **Hackathon Enthusiast**, and a **Tech Explorer** passionate about crafting data-driven solutions and turning complex problems into actionable insights.
 
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+---
 
-###
+## 🚀 About Me  
 
-<p align="left">📫 How to reach me akshatthakur.official@gmail.com<br><br>⚡ Fun fact I have multiple certifications in Rock & Pop Guitar from Trinity College London.</p>
+🎓 **B.Tech CSE (Data Science & Analytics)** student at Sharda University  
+🌍 Based in New Delhi, India  
+💡 Currently exploring **Machine Learning**, **Speech Emotion Recognition**, and **Data Visualization**  
+🎯 My mission: Solve real-world problems using data, creativity, and code.  
 
-###
+---
 
-<br clear="both">
+## 💻 Tech Stack  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akshatthakurofficial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@AkshatThakur" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+- **Programming:** Python 🐍 | R 📊 | SQL 🛠️  
+- **Data Science:** Machine Learning 🤖 | NLP 🗣️ | Data Analysis 📈  
+- **Visualization:** Power BI 📊 | Tableau 🎨 | Google Data Studio  
+- **Tools & Platforms:** Jupyter Notebook | Git & GitHub | Google Cloud 🌥️ | VS Code  
+- **Databases:** MongoDB 🍃 | MySQL | Neo4j  
+
+---
+
+## 📈 Featured Projects  
+
+1. **🛠️ Student Performance Prediction Model**  
+   - Predicts students’ academic performance using attendance, study habits, and socio-economic factors.  
+   - Tools: Python, ML, Data Analysis  
+
+2. **📊 Uber Data Analysis**  
+   - Analyzed NYC Uber pickups to optimize driver availability and service efficiency.  
+   - Tools: Python, SQL  
+
+3. **🎙️ Speech Emotion Recognition (SER)**  
+   - Built a cross-corpus model to detect emotions in speech using CNNs and log-mel spectrograms.  
+   - Tools: MFCCs, Chroma Features, Python  
+
+---
+
+## 🎯 What I’m Working On  
+
+- Enhancing **Speech Emotion Recognition** with advanced deep learning techniques.  
+- Exploring **Generative AI** applications.  
+- Contributing to open-source projects in the data science domain.  
+
+---
+
+## 📬 Let’s Connect  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/akshatthakurofficial/)  
+- 💻 [GitHub](https://github.com/1AkshatThakur1)  
+- ✉️ Reach me at [akshatthakur.official@gmail.com](mailto:akshatthakur.official@gmail.com)  
+
+---
+
+## 🌟 Fun Fact  
+
+Beyond tech, I am a certified musician and have released several songs on platforms like **Spotify**, **Amazon Music**, and other streaming services. Music is my creative outlet, and producing songs has taught me discipline, collaboration, and the art of storytelling. 🎵  
+
+🎧 Explore my artistic works here: [Linktree](https://linktr.ee/_akshatthakur11)  
+
+---
+
+Feel free to explore my repositories, contribute, or just say hi. Let’s create something amazing together! 🚀  
+
 
 ###
 
